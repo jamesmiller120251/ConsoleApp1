@@ -8,5 +8,5 @@ Console.WriteLine("Hello, World! 2");
 void Test()
 { 
 
-    string nam2e = "ali";
+    string name = "ali";
 }
