@@ -15,7 +15,7 @@ void t64es2t1()
     string n1ame2 = "s";
 }
 
-void Tesssst12()
+void Tesss11dst12()
 {
 
     string n1ame2 = "s";
