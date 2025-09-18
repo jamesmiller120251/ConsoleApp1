@@ -20,3 +20,13 @@ void Test12()
 
     string n1ame2 = "s";
 }
+void Tes22t12()
+{
+
+    string n1ame2 = "s";
+}
+void Tes1t12()
+{
+
+    string n1ame2 = "s";
+}
