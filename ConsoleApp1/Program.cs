@@ -4,7 +4,7 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World! 2");
 
 
-void Tst()
+void Tst1)
 {
 
     string n1ame2 = "ali 33";
