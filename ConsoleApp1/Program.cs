@@ -8,5 +8,5 @@ Console.WriteLine("Hello, World! 2");
 void T1est2()
 { 
 
-    string n1ame2 = "ali 32";
+    string n1ame2 = "ali 33";
 }
