@@ -9,7 +9,7 @@ void T1es2t2501_07022223500()
     string n1ame2 = "ali 33";
 }
 
-void t64est1()
+void t64es2t1()
 {
 
     string n1ame2 = "s";
