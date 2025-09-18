@@ -14,3 +14,9 @@ void Test1()
 
     string n1ame2 = "s";
 }
+
+void Test12()
+{
+
+    string n1ame2 = "s";
+}
