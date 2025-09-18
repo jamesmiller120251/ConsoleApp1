@@ -20,3 +20,10 @@ void Tesss11dccst12()
 
     string n1ame2 = "s";
 }
+
+
+void ffff()
+{
+
+    string n1ame2 = "s";
+}
