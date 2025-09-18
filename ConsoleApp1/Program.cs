@@ -22,7 +22,7 @@ void Tesss11dccst12()
 }
 
 
-void ffff()
+void fff222f()
 {
 
     string n1ame2 = "s";
