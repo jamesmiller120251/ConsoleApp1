@@ -5,7 +5,7 @@ Console.WriteLine("Hello, World! 2");
 
 
 
-void T1es2t2501_07000()
+void T1es2t2501_070500()
 { 
 
     string n1ame2 = "ali 33";
