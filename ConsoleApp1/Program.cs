@@ -20,7 +20,7 @@ void Tesss11dst12()
 
     string n1ame2 = "s";
 }
-void Tes22t12()
+void Teszz22t12()
 {
 
     string n1ame2 = "s";
