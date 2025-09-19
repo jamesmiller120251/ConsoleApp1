@@ -3,6 +3,7 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Hello, World! 2");
 
+Console.WriteLine("Hello");
 void T1es2t2501_07022223500()
 { 
 
