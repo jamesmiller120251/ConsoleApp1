@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp1;
 internal class Class2
 {
+    public int MyProperty { get; set; }
     public Class2()
     {
         
